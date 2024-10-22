@@ -8,3 +8,5 @@ test.ipynb
 *.mp3
 *.wav
 *.mp4
+
+!/demo/
