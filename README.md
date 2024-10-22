@@ -8,13 +8,7 @@ A simple implementation of the [Google NotebookLM](https://notebooklm.google.com
 
 ## Demo
 
-### Podcast Audio
-
-<audio src="./demo/podcast_audio.wav"></audio>
-
-### Podcast Video
-
-<video src="./demo/podcast_video.mp4"></video>
+<video src="https://github.com/user-attachments/assets/3d5ea886-afe7-4cb8-8b0e-f6e54d5fd096"></video>
 
 ## Prerequisites
 
