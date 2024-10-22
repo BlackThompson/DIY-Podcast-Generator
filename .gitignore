@@ -9,4 +9,6 @@ test.ipynb
 *.wav
 *.mp4
 
-!/demo/
+!/demo/*.png
+!/demo/*.wav
+!/demo/*.mp4
