@@ -1,0 +1,10 @@
+*.pdf
+__pycache__/
+.env
+*.log
+test.py
+test.ipynb
+
+*.mp3
+*.wav
+*.mp4
