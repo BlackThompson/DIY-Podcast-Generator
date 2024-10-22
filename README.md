@@ -1,10 +1,16 @@
 # 💬 DIY Podcast Generator 🎙️
 
- ![License](https://img.shields.io/badge/license-Apache2.0-blue)
+![License](https://img.shields.io/badge/license-Apache2.0-blue)
 
 A simple implementation of the [Google NotebookLM](https://notebooklm.google.com/) **Audio overview** function (of course, the performance of this system is somewhat inferior). But you can run 💬 **DIY Podcast Generator** on your PC, and generate a podcast video with captions. :)
 
-![demo](.\pic\demo.png)
+![demo](./demo/demo.png)
+
+## Demo
+### Podcast Audio
+<audio src=".\demo\podcast_audio.wav"></audio>
+### Podcast Video
+<video src=".\demo\podcast_video.mp4"></video>
 
 ## Prerequisites
 
@@ -41,11 +47,12 @@ A simple implementation of the [Google NotebookLM](https://notebooklm.google.com
 ## Usage
 
 1. Run the script:
+
    ```sh
    python app.py
    ```
 
-2. Click the given URL: 
+2. Click the given URL:
 
    ```shell
    Running on local URL: http://127.0.0.1:xxxx
