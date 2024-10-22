@@ -7,10 +7,14 @@ A simple implementation of the [Google NotebookLM](https://notebooklm.google.com
 ![demo](./demo/demo.png)
 
 ## Demo
+
 ### Podcast Audio
-<audio src=".\demo\podcast_audio.wav"></audio>
+
+<audio src="./demo/podcast_audio.wav"></audio>
+
 ### Podcast Video
-<video src=".\demo\podcast_video.mp4"></video>
+
+<video src="./demo/podcast_video.mp4"></video>
 
 ## Prerequisites
 
